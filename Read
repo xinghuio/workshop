@@ -1,7 +1,0 @@
-echo "# workshop 啊啊" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/xinghuio/workshop.git
-git push -u origin main
